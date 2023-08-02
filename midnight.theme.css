@@ -9,7 +9,7 @@
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!! */
 
-@import url('https://refact0r.github.io/midnight-discord/midnight.css');
+@import url('https://raw.githubusercontent.com/itsonlycase/midnight-discord-purpleedit/master/midnight.theme.css');
 
 /* change colors and variables here */
 :root {
@@ -19,20 +19,20 @@
 	--roundness: 16px;
 
 	/* color of links */
-	--accent-1: hsl(190, 70%, 60%);
+	--accent-1: hsl(255, 70%, 60%);
 	/* color of unread dividers and some indicators */
-	--accent-2: hsl(190, 70%, 50%);
+	--accent-2: hsl(255, 70%, 50%);
 	/* color of accented buttons */
-	--accent-3: hsl(190, 70%, 40%);
+	--accent-3: hsl(255, 70%, 40%);
 	/* color of accented buttons when hovered */
-	--accent-4: hsl(190, 70%, 30%);
+	--accent-4: hsl(332, 70%, 30%);
 	/* color of accented buttons when clicked */
-	--accent-5: hsl(190, 70%, 20%);
+	--accent-5: hsl(255, 71%, 20%);
 
 	/* color of mentions and messages that mention you */
-	--mention: hsla(190, 60%, 50%, 0.1);
+	--mention: hsla(238, 59%, 29%, 0.1);
 	/* color of mentions and messages that mention you when hovered */
-	--mention-hover: hsla(190, 60%, 50%, 0.05);
+	--mention-hover: 255(190, 60%, 50%, 0.05);
 
 	/* color of bright text on colored buttons */
 	--text-1: hsl(220, 40%, 90%);
